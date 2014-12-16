@@ -25,23 +25,15 @@ Advanced Usage:
 ></disqus>
 ```
 
-Documentation
-========================
-
+## Documentation
 Please read the <a href="https://help.disqus.com/customer/portal/articles/472098-javascript-configuration-variables">full documentation</a>.
 
 
-Contributing
-========================
-
+## Contributing
 Feel free to open an issue or send a pull request.
 
-License
-========================
-
+## License
 MIT License.
 
-Author
-========================
-
+## Author
 Copyright © 2014 Sercan Eraslan
