@@ -7,7 +7,7 @@
 *
 */
 angular.module('ngDisqus', []).
-    directive('disqus', function($window) {
+    directive('disqus', ['$window', function($window) {
 
         return {
             restrict: 'E',
@@ -38,4 +38,4 @@ angular.module('ngDisqus', []).
                 document.getElementsByTagName('body')[0].appendChild(dsq);
             }
         };
-    });
+    }]);
